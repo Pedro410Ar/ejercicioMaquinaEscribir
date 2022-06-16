@@ -2,6 +2,7 @@
 Ejercicio animando texto (efecto maquina de escribir)
 <img src= "https://www.ahorasalta.com.ar/noticias/insolito-11/un-gaucho-fue-a-un-festival-y-le-robaron-el-caballo-9026"/>
 <img src="https://www.pexels.com/es-es/foto/jugando-musico-tradicional-adentro-8280020"/>
+<img src="https://github.com/Pedro410Ar/ejercicioMaquinaEscribir/blob/master/martin.jpg"/>
 
 
 Ejercicio de animación de texto, donde se utilizó HTML y CSS.
