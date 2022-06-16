@@ -1,6 +1,6 @@
 # ejercicioMaquinaEscribir
 Ejercicio animando texto (efecto maquina de escribir)
-<img width=100 src="https://github.com/Pedro410Ar/ejercicioMaquinaEscribir/blob/master/martin.jpg"/>
+<img width=200 height= 200 src="https://github.com/Pedro410Ar/ejercicioMaquinaEscribir/blob/master/martin.jpg"/>
 
 
 Ejercicio de animación de texto, donde se utilizó HTML y CSS.
